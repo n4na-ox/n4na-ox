@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @n4na-ox
-- 👀 I’m interested in Fron End
+- 👀 I’m interested in Front End
 - 🌱 I’m currently learning Javascript,HTML,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
